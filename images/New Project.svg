@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1282" height="721">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #4072ef } 
+		.s1 { fill: #88d8ec } 
+		.s2 { fill: #ffa1d0 } 
+	</style>
+	<path id="Shape 1" class="s0" d="m623 689c-181.94 0-329-147.06-329-329c0-181.94 147.06-329 329-329c181.94 0 329 147.06 329 329c0 181.94-147.06 329-329 329z" />
+	<path id="Layer 1" class="s1" d="m873 720c-44.24 0-80-35.76-80-80c0-44.24 35.76-80 80-80c44.24 0 80 35.76 80 80c0 44.24-35.76 80-80 80z" />
+	<path id="Layer 2" class="s2" d="m332 142c-21.01 0-38-16.99-38-38c0-21.01 16.99-38 38-38c21.01 0 38 16.99 38 38c0 21.01-16.99 38-38 38z" />
+</svg>
